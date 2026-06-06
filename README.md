@@ -10,4 +10,7 @@ I work at the intersection of deep learning and computational materials science 
 ### Stack
 `PyTorch` `Diffusion Models` `Transformers` `MCTS` `LAMMPS` `DFT (xTB)` `VASP` `HPC (A100/H100/H200)` `SLURM` `ANSYS` `COMSOL`
 ### Reach me
+
+🤝 Always open to collaborating with researchers, ML engineers, and deep-tech founders working on AI4Science.
+
 [LinkedIn](https://linkedin.com/in/vsy2876) · vsy2876@gmail.com
